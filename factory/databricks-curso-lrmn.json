@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-lrmn",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb51701e-2115-428a-aac7-6ee3f430cc4b",
+		"tenantId": "bca28983-298d-4bee-abce-1c25accc5efc"
+	}
+}
